@@ -1,0 +1,15 @@
+{
+  "name": "lambda-error-alert",
+  "version": "1.0.0",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "dependencies": {
+    "aws-lambda": "1.0.7",
+    "typescript": "5.2.2"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "8.10.122",
+    "@types/node": "20.7.1"
+  }
+}
